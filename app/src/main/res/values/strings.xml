@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Todolu</string>
+    <string name="here_are_your_tasks">Here are your tasks:</string>
+    <string name="add_task">Add task</string>
+    <string name="all_task_done">Woohoo, No task remaining</string>
+    <string name="random_text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="welcome">Welcome to TODOLU</string>
+    <string name="motivation">Lets Do It !!!</string>
+    <string name="add_new_task">Add a new task:</string>
+    <string name="description_of_your_task">Description of your task</string>
+    <string name="add_task_to_list">Add Task to list</string>
+    <string name="title">Title</string>
+    <string name="edit_this_task">Edit this task:</string>
+    <string name="edit_todo_item">Edit todo item</string>
+</resources>
